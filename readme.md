@@ -43,9 +43,9 @@ animation-name: fadeIn;
 -o-animation-fill-mode: backwards;
 animation-fill-mode: backwards;
 ```
-    
+
 #### Version
-0.1
+0.2
 
 #### Author
 > Olivier Andre
