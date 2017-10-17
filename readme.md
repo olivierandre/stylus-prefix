@@ -45,7 +45,7 @@ animation-fill-mode: backwards;
 ```
 
 #### Version
-0.2
+0.3
 
 #### Author
 > Olivier Andre
